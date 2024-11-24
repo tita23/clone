@@ -9,13 +9,15 @@ import IconButton from '@mui/material/IconButton';
  
 function Header() {
     return (
-        <Box sx={{ flexGrow: 1 }}>
-        <AppBar position="static">
+      <Box sx={{ flexGrow: 1 }}>
+      <AppBar position="static" sx={{
+        backgroundColor: 'black',
+      }}>
           <Toolbar>
             <IconButton
               size="large"
               edge="start"
-              color="green"
+              color="inherit"
               aria-label="menu"
               sx={{ mr: 2 }}
             >
