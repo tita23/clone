@@ -1,6 +1,7 @@
-# Aplicação React de Gerenciamento de Projetos e Tarefas
+# Aplicação React de Gerenciamento de Projetos e Tarefas 
 
 Projeto criado com as bibliotecas React JS e Material UI.
+(clone de https://github.com/FaculdadeDescomplica/pratica_integradora_tecnologias_disruptivas/tree/main/modulo10/template-materialui com algumas modificações)
 
 ## Passo-a-passo para execução
 
